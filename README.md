@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Sr Izan and I'm a (not very) experienced developer. Please, take a look at my [website](https://srizan.ml) (in english) and [my friend one](https://miguegamer.ml) (in spanish)!
-[![SrIzan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrIzan10)](https://github.com/anuraghazra/github-readme-stats)
+[![SrIzan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrIzan10)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
