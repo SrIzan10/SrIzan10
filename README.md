@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on my website and others
+- 🔭 I’m currently working on MITC Games
 - 🌱 I’m currently learning HTML, NodeJS and Unity C#
 - 📫 How to reach me: Sr Izan#0901 and izan@srizan.ml
 - 😄 Pronouns: He/Him
