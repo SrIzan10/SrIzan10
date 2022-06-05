@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on MITC Games
-- 🌱 I’m currently learning HTML, NodeJS and Unity C#
+- 🔭 I’m currently freelancing (i quit MITC Games)
+- 🌱 I’m currently learning HTML and NodeJS.
 - 📫 How to reach me: Sr Izan#0901 and izan@srizan.ml
 - 😄 Pronouns: He/Him
 
-My name is Sr Izan and I'm a experienced™ developer. Please, take a look at my [website](https://srizan.ml) (in english) and [my friend one](https://miguegamer.ml) (in spanish)!
+My name is Sr Izan and I'm a experienced™ developer. Please, take a look at my [website](https://srizan.ml).
 
 [![SrIzan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrIzan10&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrIzan10&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
