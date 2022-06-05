@@ -16,5 +16,5 @@ My name is Sr Izan and I'm a experienced™ developer. Please, take a look at my
 
 [![SrIzan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrIzan10&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrIzan10&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![SrIzan10's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@SrIzan10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![SrIzan10's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SrIzan10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 started using wakatime, that's why it shows small coding time
