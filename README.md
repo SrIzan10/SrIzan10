@@ -20,4 +20,4 @@ My name is Sr Izan and I'm a experienced™ developer. Please, take a look at my
 [![wakatime](https://wakatime.com/badge/user/4ad16edf-eadc-48d9-b010-26f275fe0be6.svg)](https://wakatime.com/@4ad16edf-eadc-48d9-b010-26f275fe0be6)  
   
 stats
-[![stats](https://metrics.lecoq.io/SrIzan10?base.repositories=0&languages=1&isocalendar=1&followup=1)]
+[!(https://metrics.lecoq.io/SrIzan10?base.repositories=0&languages=1&isocalendar=1&followup=1)]
