@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently freelancing (i quit MITC Games)
+- 🔭 I’m currently freelancing
 - 🌱 I’m currently learning HTML and NodeJS.
 - 📫 How to reach me: Sr Izan#0901 and izan@srizan.ml
 - 😄 Pronouns: He/Him
