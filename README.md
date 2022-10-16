@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**SrIzan10/SrIzan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
+### Hi there! 👋
 
 - 🔭 I’m currently freelancing
-- 🌱 I’m currently learning HTML and NodeJS.
+- 🌱 I’m currently learning NodeJS.
 - 📫 How to reach me: Sr Izan#0901 and izan@srizan.ml
 - 😄 Pronouns: He/Him
+
+### What I've recently done
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+### VSCode activity in the last week
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/703974042700611634)](https://discord.com/users/703974042700611634)  
 [![SrIzan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrIzan10&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
