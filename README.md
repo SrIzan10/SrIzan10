@@ -10,8 +10,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [SrIzan10/vinci-status](https://github.com/SrIzan10/vinci-status)
 2. ⬆️ Pushed 1 commit(s) to [SrIzan10/vinci-status](https://github.com/SrIzan10/vinci-status)
-3. ❗️ Opened issue [#19](https://github.com/SrIzan10/vinci-status/issues/19) in [SrIzan10/vinci-status](https://github.com/SrIzan10/vinci-status)
-4. ⬆️ Pushed 1 commit(s) to [SrIzan10/vinci](https://github.com/SrIzan10/vinci)
+3. ✔️ Closed issue [#19](https://github.com/SrIzan10/vinci-status/issues/19) in [SrIzan10/vinci-status](https://github.com/SrIzan10/vinci-status)
+4. 💬 Commented on [#19](https://github.com/SrIzan10/vinci-status/issues/19#issuecomment-1279953419) in [SrIzan10/vinci-status](https://github.com/SrIzan10/vinci-status)
 5. ⬆️ Pushed 1 commit(s) to [SrIzan10/vinci](https://github.com/SrIzan10/vinci)
 <!--RECENT_ACTIVITY:end-->
 1. ⬆️ Pushed 1 commit(s) to [SrIzan10/SrIzan10](https://github.com/SrIzan10/SrIzan10)
