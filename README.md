@@ -22,6 +22,11 @@ Last Updated: Sunday, October 16th, 2022, 9:06:24 AM
 ### VSCode activity in the last week
 
 <!--START_SECTION:waka-->
+
+```text
+Other        24 hrs 20 mins  ████████████████████▒░░░░   81.35 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/703974042700611634)](https://discord.com/users/703974042700611634)  
