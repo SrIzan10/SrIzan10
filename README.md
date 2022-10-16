@@ -5,6 +5,8 @@
 - 📫 How to reach me: Sr Izan#0901 and izan@srizan.ml
 - 😄 Pronouns: He/Him
 
+please don't contact me for ads or shit like that thanks
+
 ### What I've recently done
 
 <!--RECENT_ACTIVITY:start-->
