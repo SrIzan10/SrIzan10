@@ -23,7 +23,11 @@ Last Updated: Sunday, October 16th, 2022, 9:06:24 AM
 <!--START_SECTION:waka-->
 
 ```text
-Other        24 hrs 20 mins  ████████████████████▒░░░░   81.35 %
+From: 08 October 2022 - To: 15 October 2022
+
+Total Time: 29 hrs 55 mins
+
+Other        24 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>-----   81.35 %
 ```
 
 <!--END_SECTION:waka-->
