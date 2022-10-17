@@ -10,11 +10,11 @@ please don't contact me for ads or shit like that thanks
 ### What I've recently done
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/MITC-Games/butexit/pull/2) in [MITC-Games/butexit](https://github.com/MITC-Games/butexit)
-2. ⬆️ Pushed 1 commit(s) to [MITC-Games/butexit](https://github.com/MITC-Games/butexit)
-3. ⭐ Starred [microsoft/calculator](https://github.com/microsoft/calculator)
-4. ⬆️ Pushed 1 commit(s) to [SrIzan10/vinci-status](https://github.com/SrIzan10/vinci-status)
-5. ⬆️ Pushed 2 commit(s) to [cruzasesorjuridico/estado](https://github.com/cruzasesorjuridico/estado)
+1. ⬆️ Pushed 3 commit(s) to [cruzasesorjuridico/estado](https://github.com/cruzasesorjuridico/estado)
+2. ⬆️ Pushed 2 commit(s) to [SrIzan10/vinci-status](https://github.com/SrIzan10/vinci-status)
+3. 💪 Opened PR [#2](https://github.com/MITC-Games/butexit/pull/2) in [MITC-Games/butexit](https://github.com/MITC-Games/butexit)
+4. ⬆️ Pushed 1 commit(s) to [MITC-Games/butexit](https://github.com/MITC-Games/butexit)
+5. ⭐ Starred [microsoft/calculator](https://github.com/microsoft/calculator)
 <!--RECENT_ACTIVITY:end-->
 
 ### VSCode activity in the last week
