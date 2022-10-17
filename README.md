@@ -22,11 +22,11 @@ please don't contact me for ads or shit like that thanks
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2022 - To: 15 October 2022
+From: 09 October 2022 - To: 16 October 2022
 
-Total Time: 29 hrs 55 mins
+Total Time: 33 hrs 32 mins
 
-Other        24 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>-----   81.35 %
+Other        28 hrs 48 mins  >>>>>>>>>>>>>>>>>>>>>----   85.90 %
 ```
 
 <!--END_SECTION:waka-->
