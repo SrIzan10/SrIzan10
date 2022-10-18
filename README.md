@@ -7,7 +7,11 @@
 
 please don't contact me for ads or shit like that thanks
 
+![](https://komarev.com/ghpvc/?username=SrIzan10&color=yellowgreen)
+
 ### What I've recently done
+
+(removed for now)
 
 <!--dont-RECENT_ACTIVITY:start-->
 
