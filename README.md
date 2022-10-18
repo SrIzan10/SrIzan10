@@ -9,13 +9,7 @@ please don't contact me for ads or shit like that thanks
 
 ### What I've recently done
 
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [SrIzan10/vinci-status](https://github.com/SrIzan10/vinci-status)
-2. ⬆️ Pushed 2 commit(s) to [cruzasesorjuridico/estado](https://github.com/cruzasesorjuridico/estado)
-3. ⬆️ Pushed 2 commit(s) to [SrIzan10/vinci-status](https://github.com/SrIzan10/vinci-status)
-4. ⬆️ Pushed 1 commit(s) to [cruzasesorjuridico/estado](https://github.com/cruzasesorjuridico/estado)
-5. ⬆️ Pushed 3 commit(s) to [cruzasesorjuridico/estado](https://github.com/cruzasesorjuridico/estado)
-<!--RECENT_ACTIVITY:end-->
+<!--dont-RECENT_ACTIVITY:start-->
 
 ### VSCode activity in the last week
 
