@@ -21,11 +21,11 @@ also I'll not accept friend requests from people I don't know on Discord, so it'
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 January 2023 - To: 04 February 2023
+From: 29 January 2023 - To: 05 February 2023
 
-Total Time: 30 hrs 3 mins
+Total Time: 25 hrs 39 mins
 
-Other        27 hrs 16 mins  >>>>>>>>>>>>>>>>>>>>>>>--   90.76 %
+Other        22 hrs 17 mins  >>>>>>>>>>>>>>>>>>>>>>---   86.85 %
 ```
 
 <!--END_SECTION:waka-->
