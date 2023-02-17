@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 
 please don't contact me for ads or shit like that thanks  
-also I'll not accept friend requests from people I don't know on Discord, so it'd better to contact me using my email
+also I'll not accept friend requests from people I don't know on Discord, so it'd be better to contact me using my email
 
 ![](https://komarev.com/ghpvc/?username=SrIzan10&color=yellowgreen)
 
