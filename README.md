@@ -10,9 +10,7 @@ also I'll not accept friend requests from people I don't know on Discord, so it'
 
 ![](https://komarev.com/ghpvc/?username=SrIzan10&color=yellowgreen)
 
-### What I've recently done
-
-(removed for now)
+<img src="https://i.imgur.com/LYNhf1D.png">
 
 <!--dont-RECENT_ACTIVITY:start-->
 
