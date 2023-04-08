@@ -19,7 +19,7 @@ also I'll not accept friend requests from people I don't know on Discord, so it'
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2023 - To: 05 April 2023
+From: 30 March 2023 - To: 06 April 2023
 
 Total Time: 4 hrs 26 mins
 
