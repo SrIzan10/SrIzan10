@@ -38,3 +38,12 @@ Other        16 mins         >>-----------------------   06.04 %
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SrIzan10&theme=dark)](https://git.io/streak-stats)  
 ![](https://metrics.lecoq.io/SrIzan10?base.repositories=0&languages=1&isocalendar=1&followup=1)  
 [![wakatime](https://wakatime.com/badge/user/4ad16edf-eadc-48d9-b010-26f275fe0be6.svg)](https://wakatime.com/@4ad16edf-eadc-48d9-b010-26f275fe0be6)
+
+### why did i take a break from coding
+idk lol
+
+i uh
+
+i didnt have anything to code/to update/didnt know what to code next
+
+but im back lol
