@@ -19,15 +19,15 @@ also I'll not accept friend requests from people I don't know on Discord, so it'
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 May 2023 - To: 29 May 2023
+From: 23 May 2023 - To: 30 May 2023
 
-Total Time: 57 mins
+Total Time: 1 hr 8 mins
 
-TypeScript   37 mins         >>>>>>>>>>>>>>>>---------   64.21 %
-HTML         19 mins         >>>>>>>>-----------------   33.09 %
-JSON         0 secs          -------------------------   01.23 %
-Text         0 secs          -------------------------   00.92 %
-TSConfig     0 secs          -------------------------   00.55 %
+TypeScript   44 mins         >>>>>>>>>>>>>>>>---------   65.73 %
+HTML         19 mins         >>>>>>>------------------   28.11 %
+Bash         1 min           >------------------------   02.24 %
+JSON         1 min           -------------------------   01.63 %
+TSConfig     1 min           -------------------------   01.51 %
 ```
 
 <!--END_SECTION:waka-->
