@@ -11,7 +11,7 @@ also I'll not accept friend requests from people I don't know on Discord, so it'
 ![](https://komarev.com/ghpvc/?username=SrIzan10&color=yellowgreen)
 
 <img src="https://i.imgur.com/LYNhf1D.png">  
-![](https://img.srizan.dev/i%20hate%20python.gif)
+<img src="https://img.srizan.dev/i%20hate%20python.gif">
 
 <!--dont-RECENT_ACTIVITY:start-->
 
