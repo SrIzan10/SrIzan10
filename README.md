@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
-- 🔭 I’m currently freelancing
-- 🌱 I’m currently learning NodeJS.
+- 🔭 I’m currently coding my own projects and working on sern projects!
+- 🌱 I’m currently learning Typescript.
 - 📫 How to reach me: Sr Izan#0901 and izan@srizan.dev
 - 😄 Pronouns: He/Him
 
