@@ -1,5 +1,6 @@
 ### Hi there! 👋
 
+- I'm a spanish hobbyist student from Málaga
 - 🔭 I’m currently coding my own projects and working on sern projects!
 - 🌱 I’m currently learning Typescript.
 - 📫 How to reach me: Sr Izan#0901 and izan@srizan.dev
