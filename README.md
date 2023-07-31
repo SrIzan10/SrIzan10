@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- I'm a spanish hobbyist student from Málaga
+- 🐟️ I'm a spanish hobbyist student from Málaga
 - 🔭 I’m currently coding my own projects and working on sern projects!
 - 🌱 I’m currently learning Typescript.
 - 📫 How to reach me: @srizan (on new shitty discord username system) and izan@srizan.dev (contact me there please)
