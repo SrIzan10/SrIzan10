@@ -3,11 +3,8 @@
 - I'm a spanish hobbyist student from Málaga
 - 🔭 I’m currently coding my own projects and working on sern projects!
 - 🌱 I’m currently learning Typescript.
-- 📫 How to reach me: Sr Izan#0901 and izan@srizan.dev
+- 📫 How to reach me: @srizan (on new shitty discord username system) and izan@srizan.dev (contact me there please)
 - 😄 Pronouns: He/Him
-
-please don't contact me for ads or shit like that thanks  
-also I'll not accept friend requests from people I don't know on Discord, so it'd be better to contact me using my email
 
 ![](https://komarev.com/ghpvc/?username=SrIzan10&color=yellowgreen)
 
