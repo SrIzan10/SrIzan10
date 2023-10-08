@@ -1,9 +1,8 @@
 ### Hi there! 👋
 
-- 🐟️ I'm a spanish hobbyist student from Málaga
-- 🔭 I’m currently coding my own projects and working on sern projects!
+- 🔭 I’m currently coding my own projects and working on sern!
 - 🌱 I’m currently learning Typescript.
-- 📫 How to reach me: @srizan (on new shitty discord username system) and izan@srizan.dev (contact me there please)
+- 📫 How to reach me: @srizan on discord and izan@srizan.dev (I prefer email)
 - 😄 Pronouns: He/Him
 
 ![](https://komarev.com/ghpvc/?username=SrIzan10&color=yellowgreen)
