@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2023 - To: 09 October 2023
+From: 03 October 2023 - To: 10 October 2023
 
-Total Time: 8 hrs 55 mins
+Total Time: 7 hrs 38 mins
 
-TypeScript    7 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>-----   81.99 %
-CSS           29 mins         >------------------------   05.47 %
-YAML          21 mins         >------------------------   03.96 %
-Docker        19 mins         >------------------------   03.72 %
-JSON          19 mins         >------------------------   03.71 %
+TypeScript    6 hrs 2 mins    >>>>>>>>>>>>>>>>>>>>-----   79.03 %
+CSS           29 mins         >>-----------------------   06.38 %
+YAML          21 mins         >------------------------   04.62 %
+Docker        19 mins         >------------------------   04.34 %
+JSON          19 mins         >------------------------   04.33 %
 ```
 
 <!--END_SECTION:waka-->
