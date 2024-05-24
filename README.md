@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2024 - To: 21 May 2024
+From: 15 May 2024 - To: 22 May 2024
 
-Total Time: 10 hrs 29 mins
+Total Time: 11 hrs 30 mins
 
-TypeScript   9 hrs 16 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.50 %
-Prisma       32 mins         >------------------------   05.15 %
-Bash         18 mins         >------------------------   02.97 %
-Other        8 mins          -------------------------   01.41 %
-CSS          4 mins          -------------------------   00.70 %
+TypeScript   8 hrs 43 mins   >>>>>>>>>>>>>>>>>>>------   75.81 %
+Astro        49 mins         >>-----------------------   07.17 %
+Prisma       32 mins         >------------------------   04.64 %
+Bash         30 mins         >------------------------   04.47 %
+CSS          24 mins         >------------------------   03.57 %
 ```
 
 <!--END_SECTION:waka-->
