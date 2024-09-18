@@ -27,6 +27,8 @@ Caddyfile     15 mins         >>-----------------------   08.35 %
 Bash          12 mins         >>-----------------------   06.54 %
 TypeScript    9 mins          >------------------------   05.10 %
 ```
+[![wakatime](https://wakatime.com/badge/user/4ad16edf-eadc-48d9-b010-26f275fe0be6.svg)](https://wakatime.com/@4ad16edf-eadc-48d9-b010-26f275fe0be6)  
+there's more time that hasn't been logged for sure
 
 <!--END_SECTION:waka-->
 
@@ -35,4 +37,3 @@ TypeScript    9 mins          >------------------------   05.10 %
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrIzan10&layout=compact&theme=dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SrIzan10&theme=dark)](https://git.io/streak-stats)  
 ![](https://metrics.lecoq.io/SrIzan10?base.repositories=0&languages=1&isocalendar=1&followup=1)  
-[![wakatime](https://wakatime.com/badge/user/4ad16edf-eadc-48d9-b010-26f275fe0be6.svg)](https://wakatime.com/@4ad16edf-eadc-48d9-b010-26f275fe0be6)
