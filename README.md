@@ -17,18 +17,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2024 - To: 16 September 2024
+From: 10 September 2024 - To: 17 September 2024
 
-Total Time: 3 hrs 9 mins
+Total Time: 4 hrs 11 mins
 
-YAML          1 hr 59 mins    >>>>>>>>>>>>>>>>---------   62.85 %
-HTML          18 mins         >>-----------------------   09.65 %
-Caddyfile     15 mins         >>-----------------------   08.35 %
-Bash          12 mins         >>-----------------------   06.54 %
-TypeScript    9 mins          >------------------------   05.10 %
+YAML          2 hrs 54 mins   >>>>>>>>>>>>>>>>>--------   69.28 %
+HTML          18 mins         >>-----------------------   07.27 %
+Caddyfile     17 mins         >>-----------------------   06.81 %
+Bash          12 mins         >------------------------   04.93 %
+TypeScript    9 mins          >------------------------   03.84 %
 ```
-[![wakatime](https://wakatime.com/badge/user/4ad16edf-eadc-48d9-b010-26f275fe0be6.svg)](https://wakatime.com/@4ad16edf-eadc-48d9-b010-26f275fe0be6)  
-there's more time that hasn't been logged for sure
 
 <!--END_SECTION:waka-->
 
