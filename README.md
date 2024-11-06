@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 - 🔭 I’m currently coding my own projects and working on sern!
-- 🌱 I’m currently learning other languages.
+- 🌱 I’m currently trying to come up with new projects.
 - 📫 How to reach me: @srizan on discord and izan@srizan.dev (I prefer email)
 - 😄 Pronouns: He/Him
 
