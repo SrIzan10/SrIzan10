@@ -8,6 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=SrIzan10&color=yellowgreen)
 
 <img src="https://i.imgur.com/LYNhf1D.png">  
+
 <img src="https://img.srizan.dev/i%20hate%20python.gif">
 
 <!--dont-RECENT_ACTIVITY:start-->
