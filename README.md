@@ -18,12 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2024 - To: 09 November 2024
+From: 03 November 2024 - To: 10 November 2024
 
-Total Time: 1 hr 33 mins
+Total Time: 1 hr 25 mins
 
-YAML   1 hr 27 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   94.12 %
-JSON   5 mins          >------------------------   05.87 %
+YAML   1 hr 20 mins    >>>>>>>>>>>>>>>>>>>>>>>--   93.63 %
+JSON   5 mins          >>-----------------------   06.36 %
 Bash   0 secs          -------------------------   00.01 %
 ```
 
