@@ -18,14 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2024 - To: 15 November 2024
+From: 09 November 2024 - To: 16 November 2024
 
-Total Time: 3 hrs 31 mins
+Total Time: 3 hrs 45 mins
 
-Nix     3 hrs 7 mins    >>>>>>>>>>>>>>>>>>>>>>---   88.76 %
-CSS     12 mins         >>-----------------------   06.01 %
-Bash    10 mins         >------------------------   05.13 %
-Other   0 secs          -------------------------   00.10 %
+Nix     3 hrs 7 mins    >>>>>>>>>>>>>>>>>>>>>----   83.06 %
+YAML    14 mins         >>-----------------------   06.42 %
+CSS     12 mins         >------------------------   05.62 %
+Bash    10 mins         >------------------------   04.80 %
+Other   0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
