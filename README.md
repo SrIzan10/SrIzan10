@@ -18,14 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2024 - To: 13 December 2024
+From: 07 December 2024 - To: 14 December 2024
 
-Total Time: 50 mins
+Total Time: 27 mins
 
-YAML        33 mins         >>>>>>>>>>>>>>>>>--------   66.23 %
-Nix         8 mins          >>>>---------------------   16.03 %
-Caddyfile   7 mins          >>>>---------------------   15.36 %
-JSON        1 min           >------------------------   02.38 %
+YAML        18 mins         >>>>>>>>>>>>>>>>>--------   67.73 %
+Caddyfile   7 mins          >>>>>>>------------------   27.93 %
+JSON        1 min           >------------------------   04.34 %
 ```
 
 <!--END_SECTION:waka-->
