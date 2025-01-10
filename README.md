@@ -18,14 +18,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 07 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
-Total Time: 10 hrs 55 mins
+Total Time: 10 hrs 59 mins
 
-TypeScript   8 hrs 53 mins   >>>>>>>>>>>>>>>>>>>>-----   81.34 %
-YAML         36 mins         >------------------------   05.55 %
-kdl          25 mins         >------------------------   03.89 %
-Prisma       21 mins         >------------------------   03.34 %
+TypeScript   8 hrs 54 mins   >>>>>>>>>>>>>>>>>>>>-----   81.06 %
+YAML         36 mins         >------------------------   05.51 %
+kdl          25 mins         >------------------------   03.87 %
+Prisma       24 mins         >------------------------   03.72 %
 Lua          8 mins          -------------------------   01.27 %
 ```
 
