@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2025 - To: 11 January 2025
+From: 05 January 2025 - To: 12 January 2025
 
-Total Time: 14 hrs 41 mins
+Total Time: 10 hrs 40 mins
 
-TypeScript   10 hrs 54 mins  >>>>>>>>>>>>>>>>>>>------   74.28 %
-YAML         58 mins         >>-----------------------   06.65 %
-GDScript3    37 mins         >------------------------   04.29 %
-kdl          25 mins         >------------------------   02.90 %
-Prisma       25 mins         >------------------------   02.85 %
+TypeScript   7 hrs 40 mins   >>>>>>>>>>>>>>>>>>-------   71.90 %
+YAML         1 hr            >>-----------------------   09.52 %
+GDScript3    37 mins         >------------------------   05.90 %
+JSON         24 mins         >------------------------   03.78 %
+Docker       18 mins         >------------------------   02.95 %
 ```
 
 <!--END_SECTION:waka-->
