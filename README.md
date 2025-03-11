@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2025 - To: 08 March 2025
+From: 02 March 2025 - To: 09 March 2025
 
-Total Time: 2 hrs 37 mins
+Total Time: 1 hr 53 mins
 
-YAML         1 hr 2 mins     >>>>>>>>>>---------------   39.33 %
-TypeScript   57 mins         >>>>>>>>>----------------   36.14 %
-JavaScript   11 mins         >>-----------------------   07.09 %
-Other        9 mins          >------------------------   05.87 %
-Caddyfile    8 mins          >------------------------   05.08 %
+YAML         1 hr 2 mins     >>>>>>>>>>>>>>-----------   54.53 %
+TypeScript   23 mins         >>>>>--------------------   20.46 %
+JavaScript   11 mins         >>-----------------------   09.83 %
+Other        9 mins          >>-----------------------   08.13 %
+Caddyfile    8 mins          >>-----------------------   07.05 %
 ```
 
 <!--END_SECTION:waka-->
