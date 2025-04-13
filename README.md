@@ -18,12 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2025 - To: 10 April 2025
+From: 04 April 2025 - To: 11 April 2025
 
-Total Time: 8 mins
+Total Time: 6 mins
 
-YAML         5 mins          >>>>>>>>>>>>>>>>>--------   66.66 %
-TypeScript   2 mins          >>>>>>>>-----------------   33.34 %
+YAML         3 mins          >>>>>>>>>>>>>------------   52.85 %
+TypeScript   2 mins          >>>>>>>>>>>>-------------   47.15 %
 ```
 
 <!--END_SECTION:waka-->
