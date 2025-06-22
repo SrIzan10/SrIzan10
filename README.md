@@ -11,22 +11,7 @@
 
 <img src="https://img.srizan.dev/i%20hate%20python.gif">
 
-<!--dont-RECENT_ACTIVITY:start-->
-
-### VSCode activity in the last week
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 13 June 2025 - To: 20 June 2025
-
-Total Time: 24 mins
-
-YAML   24 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
-```
-
-<!--END_SECTION:waka-->
-
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=101&api_domain=hackatime.hackclub.com&theme=catppuccin_mocha&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 [![Discord Presence](https://lanyard.cnrad.dev/api/703974042700611634)](https://discord.com/users/703974042700611634)  
 [![SrIzan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrIzan10&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrIzan10&layout=compact&theme=dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)  
